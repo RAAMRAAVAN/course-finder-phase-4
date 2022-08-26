@@ -1,0 +1,1 @@
+export const FILTER_INPUTS  = "FILTER_INPUTS "

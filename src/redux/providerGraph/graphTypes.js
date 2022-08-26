@@ -1,0 +1,4 @@
+export const UPDATE_DATA="UPDATE_VALUES"
+export const UPDATE_LABELS="UPDATE_LABELS"
+export const UPDATE_STATUS="UPDATE_STATUS"
+
